@@ -21,6 +21,6 @@ The last two will usually contain a link to an open source repository.
   
   <br/>
 
-> ### Interactive Fate/ timeline ❌
+> ### Interactive Fate/ timeline 🚧 ([repo](https://github.com/TheColorman/Fate-Timeline))
 > It could be fun to create a complete timeline of the Fate franchise with interactive elements such as hiding of speicifc series.  
 > https://reactflow.dev/ looks like it could work.

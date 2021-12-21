@@ -20,7 +20,13 @@ The last two will usually contain a link to an open source repository.
 > This would be a simple website where you can upload or paste a link to 2 video clips. Then you have the ability to replace or add the audio from one clip, to the other with the simple press of a button. 
   
   <br/>
-
+  
 > ### Interactive Fate/ timeline 🚧 ([repo](https://github.com/TheColorman/Fate-Timeline))
 > It could be fun to create a complete timeline of the Fate franchise with interactive elements such as hiding of speicifc series.  
-> https://reactflow.dev/ looks like it could work.
+> https://reactflow.dev/ looks like it could work.  
+  
+  <br/>
+  
+> ### Docs Copilot ❌  
+> GitHub copilot is amazing, and I've used it so much that I got used to autocompletion on everything I typed. Problem is, when writing normally in places like Google Docs, there's no autocomplete.  
+> Integration of GPT-3 into writing like GitHub Copilot in the form a chrome extension.  

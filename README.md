@@ -30,3 +30,9 @@ The last two will usually contain a link to an open source repository.
 > ### Docs Copilot ❌  
 > GitHub copilot is amazing, and I've used it so much that I got used to autocompletion on everything I typed. Problem is, when writing normally in places like Google Docs, there's no autocomplete.  
 > Integration of GPT-3 into writing like GitHub Copilot in the form a chrome extension.  
+  
+  <br/>  
+  
+> ### Spotify advanced playlist sort ❌  
+> The perfect party requires the perfect playlist, and what better way to sort a playlist than creating a curve based on some points, and then ordering the playlist baded on factors such as BPM? With this it's possible to control spikes in playlist energy.    
+> Use the Spotify API to get song information, then sort song based on user-generated curve.  

@@ -36,3 +36,9 @@ The last two will usually contain a link to an open source repository.
 > ### Spotify advanced playlist sort ❌  
 > The perfect party requires the perfect playlist, and what better way to sort a playlist than creating a curve based on some points, and then ordering the playlist baded on factors such as BPM? With this it's possible to control spikes in playlist energy.    
 > Use the Spotify API to get song information, then sort song based on user-generated curve.  
+  
+  <br/>
+
+> ### AniList.co advanced sort ❌  
+> Third party website with advanced sorting of you animelist from AniList.co, since you can't sort lists by things like global score.  
+> They have a developer API so that's cool.

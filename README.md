@@ -40,6 +40,6 @@ The last three will usually contain a link to an open source repository.
   
   <br/>
 
-> ### AniList.co advanced sort ❌  
+> ### AniList.co advanced sort 🚧  
 > Third party website with advanced sorting of you animelist from AniList.co, since you can't sort lists by things like global score.  
-> They have a developer API so that's cool.
+> They have a developer API so that's cool.  

@@ -43,3 +43,9 @@ The last three will usually contain a link to an open source repository.
 > ### AniList.co advanced sort 🚧  
 > Third party website with advanced sorting of you animelist from AniList.co, since you can't sort lists by things like global score.  
 > They have a developer API so that's cool.  
+  
+  <br/>
+
+> ### Netflix for torrents ❌  
+> Popcorn Time was usually called the Netflix for piracy/torrents. This would be a similar service where you browse movies (catalogued trough a service like TMDB). One a movie/series and a video quality has been chosen, the service will find a suitable torrent and begin streaming it locally.  
+> Get some categories and cover art through TMDB API, and use their API as a search engine. Everything happens locally, minimum server communication. Website will have built-in torrent client (if that's even possible) that will sequentially download the movie/selected episode of TV show.  

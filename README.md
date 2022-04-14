@@ -50,3 +50,9 @@ The last three will usually contain a link to an open source repository.
 > ~~Popcorn Time was usually called the Netflix for piracy/torrents. This would be a similar service where you browse movies (catalogued trough a service like TMDB). One a movie/series and a video quality has been chosen, the service will find a suitable torrent and begin streaming it locally.~~  
 > ~~Get some categories and cover art through TMDB API, and use their API as a search engine. Everything happens locally, minimum server communication. Website will have built-in torrent client (if that's even possible) that will sequentially download the movie/selected episode of TV show.~~  
 > This has now been created by [TheUnknown](https://github.com/ThaUnknown), though only for anime ([https://github.com/ThaUnknown/miru](https://github.com/ThaUnknown/miru)).  
+  
+  <br/>
+
+> ### Life-like book reader ❌  
+> Feed it some text and it will produce an audio file reading the text aloud. The goal here is to use some sort of semantic analysis to figure out where to add pauses, breaths and emphasis (possibly using SSML). Then feeds this into a text-to-speech algorithm advanced enough to produce speech indifferentiable from real speech.  
+> Infinite audio books for everyone!  

@@ -39,12 +39,6 @@ The last three will usually contain a link to an open source repository.
 > Use the Spotify API to get song information, then sort song based on user-generated curve.  
   
   <br/>
-
-> ### Life-like book reader ❌  
-> Feed it some text and it will produce an audio file reading the text aloud. The goal here is to use some sort of semantic analysis to figure out where to add pauses, breaths and emphasis (possibly using SSML). Then feeds this into a text-to-speech algorithm advanced enough to produce speech indifferentiable from real speech.  
-> Infinite audio books for everyone!  
-  
-  <br/>
   
 > ### Tilbudsavis lookup ❌  
 > In Denmark, most all convenience stores have a weekly magazine with a list of offers for that week.  

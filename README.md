@@ -43,7 +43,15 @@ The last three will usually contain a link to an open source repository.
 > ### Life-like book reader ❌  
 > Feed it some text and it will produce an audio file reading the text aloud. The goal here is to use some sort of semantic analysis to figure out where to add pauses, breaths and emphasis (possibly using SSML). Then feeds this into a text-to-speech algorithm advanced enough to produce speech indifferentiable from real speech.  
 > Infinite audio books for everyone!  
-
+  
+  <br/>
+  
+> ### Tilbudsavis lookup ❌  
+> In Denmark, most all convenience stores have a weekly magazine with a list of offers for that week.  
+> This tool would automatically read and compile all offers from these magazines, neatly displaying them for easy overview over which stores have what on offer.  
+  
+  <br/>  
+  
 ## Complete/otherwise finished  
 
 > ### AniList.co advanced sort ✅ ([repo](https://github.com/TheColorman/ani-improver)) (School exam project)  
@@ -58,10 +66,4 @@ The last three will usually contain a link to an open source repository.
 > This has now been created by [ThaUnknown](https://github.com/ThaUnknown), though only for anime ([https://github.com/ThaUnknown/miru](https://github.com/ThaUnknown/miru)).  
   
   <br/>
-  
-> ### Tilbudsavis lookup ❌  
-> In Denmark, most all convenience stores have a weekly magazine with a list of offers for that week.  
-> This tool would automatically read and compile all offers from these magazines, neatly displaying them for easy overview over which stores have what on offer.  
-  
-  <br/>  
   

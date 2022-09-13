@@ -15,13 +15,7 @@ The last three will usually contain a link to an open source repository.
 > I got this idea after Facebook sent me a free replacement elite strap, so now I have a 10,000 mAh battery just lying around.  
   
   <br/>
-  
-> ### Audio/Video mixer 🚧 ([repo](https://github.com/TheColorman/audio-replacer)) (School exam project)  
-> Sometimes you just want to replace or add some music to a video clip.  
-> This would be a simple website where you can upload or paste a link to 2 video clips. Then you have the ability to replace or add the audio from one clip, to the other with the simple press of a button. 
-  
-  <br/>
-  
+    
 > ### Interactive Fate/ timeline ⏸ ([repo](https://github.com/TheColorman/Fate-Timeline)) (Currently busy with other projects)  
 > It could be fun to create a complete timeline of the Fate franchise with interactive elements such as hiding of speicifc series.  
 > https://reactflow.dev/ looks like it could work.  
@@ -45,6 +39,13 @@ The last three will usually contain a link to an open source repository.
 > ### AniList.co advanced sort ✅ ([repo](https://github.com/TheColorman/ani-improver)) (School exam project)  
 > ~~Third party website with advanced sorting of you animelist from AniList.co, since you can't sort lists by things like global score.  
 > They have a developer API so that's cool.~~  
+  
+  <br/>
+  
+> ### Audio/Video mixer ✅ ([repo](https://github.com/TheColorman/audio-replacer)) (School exam project)  
+> ~~Sometimes you just want to replace or add some music to a video clip.~~  
+> ~~This would be a simple website where you can upload or paste a link to 2 video clips. Then you have the ability to replace or add the audio from one clip, to the other with the simple press of a button.~~  
+> I would like to add to this someday, but for now it's completed.  
   
   <br/>
   
